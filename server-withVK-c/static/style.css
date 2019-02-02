@@ -1,0 +1,14 @@
+body {
+    background: rgb(245, 209, 223);
+}
+h1 {
+    color: blue;
+}
+body div {
+    width: 500px;
+    height: 500px;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
